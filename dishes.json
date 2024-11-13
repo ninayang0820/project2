@@ -1,0 +1,197 @@
+{
+  "Italian Cuisine": [
+    {
+      "name": "Margherita Pizza",
+      "description": "A Neapolitan pizza with fresh tomato sauce, mozzarella cheese, basil, olive oil, and salt.",
+      "origin": "Italy"
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "description": "Pizza topped with mozzarella, Parmesan, gorgonzola, and ricotta or fontina.",
+      "origin": "Italy"
+    },
+    {
+      "name": "Neapolitan Pizza",
+      "description": "Thin-crust pizza with tomato sauce, mozzarella, and basil, baked in a wood-fired oven.",
+      "origin": "Italy"
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "description": "Roman pasta with eggs, Pecorino Romano, pancetta, and black pepper.",
+      "origin": "Italy"
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "description": "Fettuccine noodles tossed in butter and Parmesan.",
+      "origin": "Italy"
+    },
+    {
+      "name": "Lasagna",
+      "description": "Layers of pasta with meat (or vegetable) sauce, cheese, and béchamel.",
+      "origin": "Italy"
+    },
+    {
+      "name": "Panini",
+      "description": "Sandwich made from various Italian breads (ciabatta, baguette) with deli meats, cheese, and sometimes grilled.",
+      "origin": "Italy"
+    }
+  ],
+  "American Cuisine": [
+    {
+      "name": "Classic Hot Dog",
+      "description": "Grilled or steamed sausage in a bun, topped with mustard, ketchup, onions, relish, or sauerkraut.",
+      "origin": "United States"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "description": "Tomato sauce, mozzarella, and pepperoni slices.",
+      "origin": "United States"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "description": "Creamy pasta dish with elbow macaroni baked in cheese sauce.",
+      "origin": "United States"
+    },
+    {
+      "name": "BLT Sandwich",
+      "description": "Bacon, lettuce, and tomato on toasted bread.",
+      "origin": "United States"
+    },
+    {
+      "name": "Reuben Sandwich",
+      "description": "Corned beef, sauerkraut, Swiss cheese, and Russian dressing on rye.",
+      "origin": "United States"
+    },
+    {
+      "name": "Sloppy Joe",
+      "description": "Ground beef in seasoned tomato sauce on a round bun.",
+      "origin": "United States"
+    },
+    {
+      "name": "Po' boy",
+      "description": "Crusty bread filled with fried seafood or roast beef, traditional in Louisiana.",
+      "origin": "United States"
+    }
+  ],
+  "British Cuisine": [
+    {
+      "name": "Bacon Sandwich",
+      "description": "Typically served with ketchup or brown sauce.",
+      "origin": "United Kingdom"
+    },
+    {
+      "name": "Chip Butty",
+      "description": "Bread filled with chips, often with vinegar or ketchup.",
+      "origin": "United Kingdom"
+    },
+    {
+      "name": "Cucumber Sandwich",
+      "description": "Thinly sliced cucumber on crustless, buttered bread.",
+      "origin": "United Kingdom"
+    },
+    {
+      "name": "Jam Sandwich",
+      "description": "Buttered bread with jam, typically strawberry, for a quick snack.",
+      "origin": "United Kingdom"
+    }
+  ],
+  "Mexican Cuisine": [
+    {
+      "name": "Cemita",
+      "description": "A sandwich with sliced avocado, white cheese, onions, and red sauce on a sesame-seeded egg roll.",
+      "origin": "Mexico"
+    },
+    {
+      "name": "Torta Ahogada",
+      "description": "A Guadalajara specialty with pork-stuffed bread, submerged in a spicy chile sauce.",
+      "origin": "Mexico"
+    },
+    {
+      "name": "Guajolota",
+      "description": "Bolillo bread stuffed with tamales, popular street food in Mexico City.",
+      "origin": "Mexico"
+    }
+  ],
+  "French Cuisine": [
+    {
+      "name": "Croque-Monsieur",
+      "description": "Grilled ham and cheese with béchamel sauce.",
+      "origin": "France"
+    },
+    {
+      "name": "Jambon-Beurre",
+      "description": "A baguette with butter and ham, a classic Parisian sandwich.",
+      "origin": "France"
+    },
+    {
+      "name": "Pan-bagnat",
+      "description": "A Nice specialty with tuna, olives, hard-boiled eggs, and vegetables on round bread, served chilled.",
+      "origin": "France"
+    }
+  ],
+  "Japanese Cuisine": [
+    {
+      "name": "Katsu Sando",
+      "description": "Breaded and fried pork cutlet in a soft sandwich.",
+      "origin": "Japan"
+    },
+    {
+      "name": "Yakisoba-pan",
+      "description": "Hot dog bun filled with fried noodles, often topped with pickles and mayonnaise.",
+      "origin": "Japan"
+    }
+  ],
+  "German Cuisine": [
+    {
+      "name": "Currywurst",
+      "description": "Bratwurst with curry-flavored ketchup, often served with fries.",
+      "origin": "Germany"
+    },
+    {
+      "name": "Butterbrot",
+      "description": "Open-faced bread with butter, topped with sweet or savory ingredients.",
+      "origin": "Germany"
+    },
+    {
+      "name": "Mettbrötchen",
+      "description": "Raw minced pork on bread with raw onions, popular as a breakfast or snack item.",
+      "origin": "Germany"
+    }
+  ],
+  "Greek Cuisine": [
+    {
+      "name": "Gyro",
+      "description": "Meat roasted on a vertical spit, with tomato, onion, and yogurt sauce in pita bread.",
+      "origin": "Greece"
+    },
+    {
+      "name": "Souvlaki",
+      "description": "Skewered grilled meat served on pita with lettuce, tomato, and tzatziki sauce.",
+      "origin": "Greece"
+    }
+  ],
+  "Middle Eastern Cuisine": [
+    {
+      "name": "Falafel",
+      "description": "Deep-fried chickpea balls with vegetables and tahini in pita.",
+      "origin": "Middle East"
+    },
+    {
+      "name": "Shawarma",
+      "description": "Flatbread filled with meat, usually beef or chicken, with cucumber, tomato, and tahini.",
+      "origin": "Middle East"
+    }
+  ],
+  "Argentinian Cuisine": [
+    {
+      "name": "Choripán",
+      "description": "Grilled chorizo on a crusty roll with chimichurri sauce.",
+      "origin": "Argentina"
+    },
+    {
+      "name": "Pebete",
+      "description": "A soft, oval bun with cheese, cured meat, tomato, and mayonnaise.",
+      "origin": "Argentina"
+    }
+  ]
+}

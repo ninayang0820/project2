@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What To Eat?</title>
+
+    <link href="style.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <section id="p5canvas">
+    </section>
+
+    <div class="flex">
+        <div id="item-1">
+            "What's on the Plate Today?"
+        </div>
+        <div id="item-2">What To Eat?</div>
+        <div id="item-3">
+            Feeling stuck on what to eat? "What's on the Plate Today?" is your go-to guide for delicious, easy-to-cook
+            meals that match your cravings, time, and dietary preferences. Whether you're looking for something quick,
+            healthy, indulgent, or adventurous, we'll provide curated meal ideas tailored to your day. Simply click the
+            button below, and we'll serve up the perfect dish for you.
+        </div>
+
+        <div style="margin-top: 20px;">
+            <select id="category">
+                <option>Italian Cuisine</option>
+                <option>American Cuisine</option>
+                <option>British Cuisine</option>
+                <option>Mexican Cuisine</option>
+                <option>French Cuisine</option>
+                <option>Japanese Cuisine</option>
+                <option>German Cuisine</option>
+                <option>Greek Cuisine</option>
+                <option>Middle Eastern Cuisine</option>
+                <option>Argentinian Cuisine</option>
+            </select>
+            <button id="randomButton" >Create a Dish</button>
+        </div>
+
+        <div id="foodList">
+
+        </div>
+
+        <div class="chatWrapper">
+            <div id="chatList"></div>
+            <div class="chat-input-wrapper">
+                <input id="message" placeholder="Message..." />
+                <button id="send">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.js"></script>
+    <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
